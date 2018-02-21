@@ -1,3 +1,3 @@
 # Wedding
-Wedding Reminder
+Wedding
 
